@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "5393256957",
+    "project_id": "fluttersignin-9e98b",
+    "storage_bucket": "fluttersignin-9e98b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5393256957:android:ccd23946b0d8ac6b4cc994",
+        "android_client_info": {
+          "package_name": "com.example.bonfire_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5393256957-h3ls4he4lh5lotgpm0eglrq92blio9ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bonfire_v1",
+            "certificate_hash": "d0bf81a9df555c30adf327d05d433afd4bc997c9"
+          }
+        },
+        {
+          "client_id": "5393256957-ffi0fpitjst1nushgtjlci39gudf8ohk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBepEYsa9WwBuC6Ta-_pDREp8-pTMIF_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5393256957-ffi0fpitjst1nushgtjlci39gudf8ohk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "5393256957-545a7afal90v58lcfiv35b5evgqb27lh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bonfireV1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5393256957:android:8295fe8d35f0f3c64cc994",
+        "android_client_info": {
+          "package_name": "com.example.drainblood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5393256957-ffi0fpitjst1nushgtjlci39gudf8ohk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBepEYsa9WwBuC6Ta-_pDREp8-pTMIF_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5393256957-ffi0fpitjst1nushgtjlci39gudf8ohk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "5393256957-545a7afal90v58lcfiv35b5evgqb27lh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bonfireV1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
